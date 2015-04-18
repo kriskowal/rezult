@@ -1,6 +1,8 @@
 A JavaScript value or error object.
 
 ```js
+var Result = require("rezult");
+
 function safeJsonParse(string) {
     try {
         return new Result(null, JSON.parse(string));
