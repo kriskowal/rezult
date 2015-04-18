@@ -1,6 +1,6 @@
 {
   "name": "rezult",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A value or error object",
   "main": "index.js",
   "scripts": {
